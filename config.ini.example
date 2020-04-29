@@ -1,0 +1,3 @@
+[Global]
+  SMS_LINK=https://smsapi.free-mobile.fr/sendmsg?user=123456&pass=ermpkejhdfdf&msg=
+  SITE_LIST=google.fr,google.com
